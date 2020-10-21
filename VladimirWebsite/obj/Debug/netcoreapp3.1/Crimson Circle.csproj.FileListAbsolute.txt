@@ -1,0 +1,36 @@
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.exe
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.deps.json
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.runtimeconfig.json
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.dll
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.pdb
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.Views.dll
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\bin\Debug\netcoreapp3.1\Crimson Circle.Views.pdb
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.AssemblyInfo.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.RazorAssemblyInfo.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.RazorAssemblyInfo.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.TagHelpers.input.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.TagHelpers.output.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.RazorCoreGenerate.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.RazorTargetAssemblyInfo.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.RazorTargetAssemblyInfo.cs
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.Views.pdb
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\staticwebassets\Crimson Circle.StaticWebAssets.Manifest.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\staticwebassets\Crimson Circle.StaticWebAssets.xml
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.dll
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.pdb
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.genruntimeconfig.cache
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.csproj.CopyComplete
+C:\Users\Alexander\Documents\Schule\SWP\Vogt\VladimirWebsite\VladimirWebsite\obj\Debug\netcoreapp3.1\Crimson Circle.csprojAssemblyReference.cache
