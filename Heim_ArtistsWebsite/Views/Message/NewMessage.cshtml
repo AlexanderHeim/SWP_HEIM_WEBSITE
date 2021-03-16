@@ -1,0 +1,18 @@
+﻿@model Message
+@{
+    ViewData["Title"] = "Contact Me";
+}
+
+<div class="message_div">
+    <form asp-controller="Message" asp-action="NewMessage" method="post">
+        <label asp-for="Sender">Username</label><br />
+        <input asp-for="Sender" /><br />
+        <span asp-validation-for="Sender"></span><br />
+
+        <label asp-for="MessageText">Message</label> <br />
+        <textarea asp-for="MessageText" rows="10" cols="60" placeholder="Enter Message"></textarea><br />
+        <span asp-validation-for="MessageText"></span><br />
+
+        <input class="message_submit_button" type="submit" value="Send Message" />
+    </form>
+</div>

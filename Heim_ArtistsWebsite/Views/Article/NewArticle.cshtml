@@ -1,0 +1,28 @@
+﻿@model Article
+@{
+    ViewData["Title"] = "New Article";
+}
+
+<div class="new_article_div">
+    <form asp-controller="Article" asp-action="NewArticle" method="post">
+        <label asp-for="Title">Title</label><br />
+        <input class="new_article_title_input" asp-for="Title" maxlength="128" /><br />
+
+        <label asp-for="Html_text">HTML-Text</label> <br />
+        <textarea class="new_article_text_input" asp-for="Html_text" rows="10" cols="60" placeholder="Enter HTML-Code"></textarea><br />
+
+        <input class="new_article_preview_button" type="submit" name="preview" value="Preview" />
+        <input class="article_submit_button" type="submit" name="submit" value="Add Article" />
+    </form>
+</div>
+
+<div class="article_preview">
+    <div class="article">
+        <div class="article_title">
+            <b> @Model.Title </b>
+        </div>
+        <div class="article_text">
+            @Html.Raw(Model.Html_text)
+        </div>
+    </div>
+</div>

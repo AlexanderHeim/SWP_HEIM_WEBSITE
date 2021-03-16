@@ -1,0 +1,14 @@
+﻿@model Heim_ArtistsWebsite.Models.ResultMessage
+
+@if (Model != null)
+{
+<div class="message_div">
+    <h3>@Model.Header</h3>
+    <p>@Model.Messagetext</p>
+    <p>@Model.Solution</p>
+</div>
+    
+} else
+{
+    <p>No error message given! D:</p>
+}

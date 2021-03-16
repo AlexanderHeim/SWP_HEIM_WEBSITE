@@ -1,0 +1,14 @@
+﻿@model Article
+
+@{
+    ViewData["Title"] = "Alexander Heim";
+}
+
+<div class="article">
+    <div class="article_title">
+        <b> @Model.Title </b>
+    </div>
+    <div class="article_text">
+        @Html.Raw(Model.Html_text)
+    </div>
+</div>

@@ -1,0 +1,12 @@
+﻿@model List<Message>
+@{
+    ViewData["Title"] = "Messages";
+}
+
+@foreach (var message in Model)
+{
+    <div class="message">
+        <h3>@message.Sender</h3>
+        <p>@message.MessageText</p>
+    </div>
+}

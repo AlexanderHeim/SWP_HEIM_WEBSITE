@@ -1,0 +1,17 @@
+﻿@model List<Article>
+
+@{
+    ViewData["Title"] = "Alexander Heim";
+}
+
+<div class="articles">
+    @foreach (Article article in Model)
+    {
+    <div class="article_link">
+        @*<a asp-area="" asp-controller="Article" asp-action="Article?id=@article.Article_id">@article.Title</a>*@
+        <a href="/Article/Article?id=@article.Article_id">@article.Title</a>
+    </div>
+    }
+</div>
+@*<partial name="../../Generated/Articles/ArticleSite0.cshtml" />*@
+
